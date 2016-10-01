@@ -19,8 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{798A6C3C-B12E-40B3-B2A5-3582BBE7C173}</ProjectGuid>
-    <RootNamespace>H4CK1T</RootNamespace>
+    <ProjectGuid>{6CF99CD3-6E0E-4DE2-8004-9A0412FB1AFF}</ProjectGuid>
+    <RootNamespace>CaptureIndiaHash</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -110,6 +110,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="IndiaHashRevert.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="charmap.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,0 +1,185 @@
+0	fWCCSWCC
+00	f4QifWCCSWCC
+
+1	HiNCHqCC
+11 	HiujHiNCHqCC
+
+2	HkgCnWCC
+22	HkHsHkgCnWCC
+
+3	n6nCL/CC
+33	n605n6nCL/CC
+
+4	LoPCTqCC
+44	LoPmLoPCTqCC
+
+5	TlbCKbCC
+55	TlAXTlbCKbCC
+
+6	KfnCD/CC
+66	Kf0PKfnCD/CC
+
+7	DIGCf/CC
+77	DIhSDIGCf/CC
+
+8	fGWCSWCC
+88	fGWsfGWCSWCC
+
+9	S5qCfWCC
+99	S5reS5qCfWCC
+
+a					TiKCKWCC
+aa					TiLY
+
+b					HxPCfbCC
+bb					HxQTHxPCfbCC
+
+c					fJJC+/CC
+cc					fJk3fJJC+/CC
+
+d					blqCgqCC
+dd					blrfblqCgqCC
+
+e					ghSCMWCC
+ee					ghT7ghSCMWCC
+
+f					iIzCp/CC
+ff					iIBNiIzCp/CC
+
+g					MoWCpWCC
+gg					MoXZMoWCpWCC
+
+h					HozCebCC
+hh					HozuHozCebCC
+
+i					0f5CLbCC
+ii					0f660f5CLbCC
+
+j					nigCAWCC
+jj					niHInigCAWCC
+
+k					AJKCT/CC
+kk					AJKJAJKCT/CC
+
+l					A8bCMbCC
+ll					A8ABA8bCMbCC
+
+m					Tx5C0/CC
+mm					Tx6JTx5C0/CC
+
+n					gjbCDqCC
+nn					gjAOgjbCDqCC
+
+o					nG3CSqCC
+oo					nG3tnG3CSqCC
+
+p					MtSCnqCC
+pp					MtTtMtSCnqCC
+
+q					SjSC+qCC
+qq					SjTaSjSC+qCC
+
+r					+iwC0WCC
+rr					+icl+iwC0WCC
+
+s					ijKCDbCC
+ss					ijLQijKCDbCC
+
+t					SG5CbWCC
+tt					SG62SG5CbWCC
+
+u					eGPCpbCC
+uu					eGQueGPCpbCC
+
+v					0m5CLqCC
+vv					0m6y0m5CLqCC
+
+w					AinCKqCC
+ww					Ai04AinCKqCC
+
+x					biSCgWCC
+xx					biTDbiSCgWCC
+
+y					i6PCDWCC
+yy					i6QRi6PCDWCC
+
+z					+5zCHbCC
+zz					+5BH+5zCHbCC
+
+A					LxKCTbCC
+AA					L4gkL4gCTbCC
+
+B					K4gCHWCC
+BB					K4HiK4gCHWCC
+
+C					fHKCfqCC
+CC					fHLUfHKCfqCC
+
+D					+GwCbqCC
+DD					+Gc8+GwCbqCC
+
+E					gJSCg/CC
+EE					gJTbgJSCg/CC
+
+F					M6/Ci/CC
+FF					M61KM6/Ci/CC
+
+G	phWCM/CC
+GG	phXzphWCM/CC
+
+H	pxWCH/CC
+HH	pxXgpxWCH/CC
+
+I	eHbC0bCC
+II	eHAkeHbC0bCC
+
+J	LjgCnbCC
+JJ	LjHrLjgCnbCC
+
+K 	AyGCAqCC
+KK	AyhoAyGCAqCC
+
+L 	TGnCA/CC
+LL	TG0GTGnCA/CC
+
+M	MgbCTWCC
+MM	MgblMgbCTWCC
+
+N	08KCgbCC
+NN 	08LA08KCgbCC
+
+O	DkGCn/CC
+OO	DkhqDkGCn/CC
+
+P	Sm/CMqCC
+PP	Sm1=Sm/CMqCC
+
+Q	nl3CSbCC
+QQ	nl3rnl3CSbCC
+
+R	+tGC+bCC
+RR	+th9+tGC+bCC
+
+S	0xJCibCC
+SS	0xkL0xJCibCC
+
+T	DH5CS/CC
+TT	DH5qDH5CS/CC
+
+U	b4/Ce/CC
+UU	b4/Nb4/Ce/CC
+
+V	pfWC0qCC
+VV	pfXmpfWC0qCC
+
+W	LmnCAbCC
+WW	Lm0hLmnCAbCC
+
+X	KJgCbbCC
+XX 	KJH1KJgCbbCC
+
+Y	g5GCiWCC
+YY	g5hMg5GCiWCC
+
+Z	D6zC+WCC
+ZZ	D6BVD6zC+WCC
