@@ -67,7 +67,6 @@ void readfile_gen_charmap(std::string filename) {
 	filestream.close();
 }
 
-
 int main() {
 	std::string exitstring;
 	while (1) {
