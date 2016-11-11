@@ -1,0 +1,5 @@
+TaskName: Format
+Catagory: Reverse-Engineering
+Points: 70
+Solves: 
+Description: This program is vulnerable to a format string attack! See if you can modify a variable by supplying a format string! The binary can be found at /home/format/ on the shell server. The source can be found here.
