@@ -1,20 +1,11 @@
-# Pico-CTF-2014 write-ups
+# Pico-CTF 2014: Format
 
-* <TODO>
-* [Scoreboard](TODO) or [local alternative](TODOLOCAL)
+**Category:** Binary Exploitation
+**Points:** 70
+**Total Solves:** Not Available
+## Problem Description:
 
-## Completed write-ups
-
-* none yet
-
-## External write-ups only
-
-* none yet
-
-## Missing write-ups
-
-* [reverse-engineering/format/](reverse-engineering/format/)ck! See if you can modify a variable by supplying a format string! The binary can be found at /home/format/ on the shell server. The source can be found here.
-
+> This program is vulnerable to a format string attack! See if you can modify a variable by supplying a format string! The binary can be found at /home/format/ on the shell server. The source can be found [here](format.c).
 
 ## Write-up
 
@@ -22,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* None
