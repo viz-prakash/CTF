@@ -1,6 +1,6 @@
 # Pico-CTF 2014: Format
 
-**Category:** Reverse-Engineering
+**Category:** Binary Exploitation
 **Points:** 70
 **Total Solves:** Not Available
 ## Problem Description:
