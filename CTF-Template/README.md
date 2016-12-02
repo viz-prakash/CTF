@@ -9,7 +9,7 @@
 1. Download or Clone this directory on your own git repo
 2. Rename the directory to your CTF-NAME
 3. Create a directory for each problem of a category in its category directory. Place all relevent resources to that problem in that directory. 
-4. Use that category's Catagory-Problem-Template-README.md for writing writeup of that problem. If you are writing writeup for problem of Binary-Exploitation category use [Catagory-Problem-Template-README.md](Catagory-Problem-Template-README.md).
+4. Use that category's Catagory-Problem-Template-README.md for writing writeup of that problem. If you are writing writeup for problem of Binary-Exploitation category use [Catagory-Problem-Template-README.md](Binary-Exploitation/Catagory-Problem-Template-README.md).
 5. To write the writeup copy Catagory-Problem-Template-README.md to prbomem directory, go to the problem directory, modify the content of copied file with your content as per the structure of original file. Once finished save the file.
 6. Rename the Catagory-Problem-Template-README.md present in problems directory to README.md.
 7. Do this for all problems of different category.
