@@ -9,7 +9,7 @@
 
 ## Write-up
 [//]: # (> Your write up goes here.)
-As question suggests, we are presented with hexadecimal number and we need to input decimal number as password, so we need to convert the `hexadecimal number` to `Decimal number`. For conversion we can use [ WolframAlpha](http://www.wolframalpha.com/), conversion of 0x4355a5e6 in decimal is `1129686502`.
+As question suggests, we are presented with hexadecimal number and we need to give input decimal number as a password, so we need to convert the `hexadecimal number` to `Decimal number`. For conversion we can use [ WolframAlpha](http://www.wolframalpha.com/), conversion of 0x4355a5e6 in decimal is `1129686502`.
 
 ## Other write-ups and resources
 
