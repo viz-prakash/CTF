@@ -10,10 +10,10 @@
 
 ## Write-up
 [//]: # (> Your write up goes here.)
-> We are given a pdf in which some contents are blacked out. It seems like pdf contains an image and on top it contents are shaded. ![PDF](Redacted.pdf?raw=true "PDF content")
+> We are given a pdf in which some contents are blacked out. It seems like pdf contains an image and on top it contents are shaded. 
 
 > To extract out the image we can use any [online tool](http://www.pdfaid.com/ExtractImages.aspx). we get a image:
-![Image](Image-1.PNG?raw=true "Image of PDF content").
+![Image](Image-1.png?raw=true "Image of PDF content").
 
 > Flag is : **one_two_three_four**.
 
