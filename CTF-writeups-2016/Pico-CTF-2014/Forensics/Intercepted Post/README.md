@@ -10,7 +10,7 @@ We intercepted some of your Dad's web activity. Can you get a password from his 
 
 ## Write-up
 [//]: # (> Your write up goes here.)
-Looking at the traffic in networks captured packets, we can see there is HTTP communication going on. In a http communicaiton normal way of doing communicaiton is first HTTP get to get the login page and then HTTP post with Username and Password. Looking for a HTTP POST requst packet with username and password, after HTTP GET request gives will give us the flag as `flag%7Bpl%24_%24%24l_y0ur_l0g1n_form%24%7D`. Using any Unicode to ascii converter we get the Flag is `pl$_$$l_y0ur_l0g1n_form$`. ![HTTP Post Request](/cloudshark-capture?raw=true "HTTP Post Requst Packet content")
+Looking at the traffic in networks captured packets, we can see there is HTTP communication going on. In a http communicaiton normal way of doing communicaiton is first HTTP get to get the login page and then HTTP post with Username and Password. Looking for a HTTP POST requst packet with username and password, after HTTP GET request gives will give us the flag as `flag%7Bpl%24_%24%24l_y0ur_l0g1n_form%24%7D`. Using any Unicode to ascii converter we get the Flag is `pl$_$$l_y0ur_l0g1n_form$`. ![HTTP Post Request](cloudshark-capture.PNG?raw=true "HTTP Post Requst Packet content")
 
 ## Other write-ups and resources
 
