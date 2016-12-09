@@ -126,7 +126,7 @@ cat ~/python
 cat /home/obo/flag.txt
 ```
 > It only cat the content of /home/obo/flag.txt. Once our script is ready we need to add it to `PATH` as `PATH=/home_users/your_username/:$PATH`
-> Once PATH is set can execute obo as : ` python -c 'print "0123456789ABCDEFG"' and it prints the flag as : **watch_your_bounds** 
+> Once PATH is set can execute obo as : ` /usr/bin/python -c 'print "0123456789ABCDEFG"' and it prints the flag as : **watch_your_bounds** 
 
 ## Other write-ups and resources
 
