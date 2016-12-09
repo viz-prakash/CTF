@@ -1,0 +1,27 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Fri Dec  2 18:59:49 2016
+Invocation: foremost disk.img 
+Output directory: /mnt/c/Users/vjpra/Downloads/Penetration Testing/Pico-CTF/Snapcat/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: disk.img
+Start: Fri Dec  2 18:59:49 2016
+Length: 5 MB (5242880 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000057.jpg 	      89 KB 	      29184 	 
+1:	00000237.jpg 	      13 KB 	     121344 	 
+2:	00000265.jpg 	     172 KB 	     135680 	 
+3:	00000613.jpg 	      34 KB 	     313856 	 
+4:	00000685.jpg 	      56 KB 	     350720 	 
+Finish: Fri Dec  2 18:59:49 2016
+
+5 FILES EXTRACTED
+	
+jpg:= 5
+------------------------------------------------------------------
+
+Foremost finished at Fri Dec  2 18:59:49 2016
