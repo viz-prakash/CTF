@@ -20,6 +20,7 @@ d = 0x496747c7dceae300e22d5c3fa7fd1242bda36af8bc280f7f5e630271a92cbcbeb7ae04132a
 ```
 > We are given N(modulus), Private part E, Public part D, and both prime numbers p and q which is used to generate N, N=p\*q.
 > To decrypt the RSA encrypted cipher we use the construct M= (C^d)%N. That is exactly what python script [RSA_calculation.py](RSA_calculation.py) does.
+
 ```python
 import gmpy2, libnum, binascii
 import key_data
@@ -35,8 +36,8 @@ def main():
 
 if __name__ == "__main__":
 	main()
-
 ```
+
 ```bash
 python RSA_calculation.py ciphertext.txt
 cipher going to be decrypted:  58ae101736022f486216e290d39e839e7d02a124f725865ed1b5eea7144a4c40828bd4d14dcea967561477a516ce338f293ca86efc72a272c332c5468ef43ed5d8062152aae9484a50051d71943cf4c3249d8c4b2f6c39680cc75e58125359edd2544e89f54d2e5cbed06bb3ed61e5ca7643ebb7fa04638aa0a0f23955e5b5d9
