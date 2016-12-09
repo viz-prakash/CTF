@@ -14,7 +14,7 @@
 ## Write-up
 [//]: # (> Your write up goes here.)
 > Looking at the packet capture at Cloudshark there is spoofed ARP broadcast from address 192.168.50.4 for address of 192.168.50.10 looking. Looking at the source of this broadcast it turns out to be form `CadmusCo_2b:f7:02` which is actually src of 192.168.50.3 which proofs that 192.68.50.3 trie to spoof its address and then downloaded the secret file. `Profile name of 192.168.50.3 is john.johnson`. 
-![packet capture](capture.PNG)
+![packet capture](Capture.PNG)
 > Combining all the information we get flag as : **johnson,192.168.50.3,192.168.50.4**
 
 ## Other write-ups and resources
