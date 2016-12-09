@@ -79,7 +79,7 @@ foremost disk.img
 Processing: disk.img
 |*|
 ```
-> It extracts some jpg images in [output](output) directory. Looking at images we get the flag in image ![output/jpg/00000237](ouput/jpg/00000237).
+> It extracts some jpg images in [output](output) directory. Looking at images we get the flag in image ![00000237.jpg](output/jpg/00000237.jpg).
 
 > Flag is : **i_can_has_cheezburger**
 
