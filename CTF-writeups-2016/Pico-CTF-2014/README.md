@@ -46,7 +46,7 @@
 * [No Comment](Web-Exploitation/No Comment)
 * [Toaster Control](Web-Exploitation/Toaster Control)
 
-* List of problems with your writeups
+
 [//]: # (* [quiz/emails-10](quiz/emails-10))
 [//]: # (* Solved Problems link as commented below)
 [//]: # (* [Catagory-Name/Problem-Name](Binary-Exploitation/Problem-1))
