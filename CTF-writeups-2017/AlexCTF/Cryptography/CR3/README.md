@@ -3,9 +3,8 @@
 **Category:** Cryptography
 **Points:** 150
 **Total Solves:** Not Available
-## Problem Description:
-
-[//]: # (> This program is vulnerable to a format string attack! See if you can modify a variable by supplying a format string! The binary can be found at /home/format/ on the shell server. The source can be found [here](format.c).)
+## Problem Description: 
+[//]: # (> This program is vulnerable to a format string attack! See if you can modify a variable by supplying a format string! The binary can be found at /home/format/ on the shell server. The source can be found [here](format.c\).)
 > What is this encryption?
 
 > Fady assumed this time that you will be so n00b to tell what encryption he is using
@@ -23,10 +22,9 @@ he send the following note to his friend in plain sight :
 
 ## Write-up
 [//]: # (> Your write up goes here.)
-(TODO)
 > We are given p, q (prime numbers), e(public key), and c(encrypted message), looking at these values it's clear that encryption in use is RSA. First things that comes to mind after looking at RSA construct is, if we can decrypt the encrypted part that might give us the flag. Let's proceed on our guess.
 
-> We are given p, q, e, and c. Unkowns are N(Moduls), Toteint, and d(private part). Let's proceed step by step. We can calculate N easily from given p and q. Similarly we can calculate totient function (phi) as (p-1)(q-1). After calculating phi we can get d from de % phi = 1. Once we got the d we can decrypt the message c^d mod N. Python script to so is below:
+> We are given p, q, e, and c. Unkowns are N(Moduls), Toteint, and d(private part). Let's proceed step by step. We can calculate N easily from given p and q. Similarly, we can calculate totient function (phi) as (p-1)(q-1). After calculating phi, we can get d from (d\*e) % phi = 1. Once we got the d we can decrypt the message c^d mod N. Python script to so is below:
 
 ```python
 #!/usr/bin/python
