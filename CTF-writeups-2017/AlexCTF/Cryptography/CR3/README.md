@@ -5,7 +5,6 @@
 **Total Solves:** Not Available
 ## Problem Description: 
 
-[//]: # (> This program is vulnerable to a format string attack! See if you can modify a variable by supplying a format string! The binary can be found at /home/format/ on the shell server. The source can be found [here](format.c).)
 > What is this encryption?
 
 > Fady assumed this time that you will be so n00b to tell what encryption he is using
