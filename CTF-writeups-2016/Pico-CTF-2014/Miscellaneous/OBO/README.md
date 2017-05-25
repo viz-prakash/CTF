@@ -5,7 +5,7 @@
 **Total Solves:** Not Available
 ## Problem Description:
 
-[//]: # (> This program is vulnerable to a format string attack! See if you can modify a variable by supplying a format string! The binary can be found at /home/format/ on the shell server. The source can be found [here](format.c).)
+[//]: # (> This program is vulnerable to a format string attack! See if you can modify a variable by supplying a format string! The binary can be found at /home/format/ on the shell server. The source can be found [here](format.c\).)
 > This password changing program was written by an inexperienced C programmer. Can you some find bugs and exploit them to get the flag? The problem can be found at /home/obo/ on the shell server, and the source code can be downloaded [here](obo.c)
 
 ## Write-up

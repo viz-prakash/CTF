@@ -5,7 +5,7 @@
 **Total Solves:** Not Available
 ## Problem Description:
 
-[//]: # (> This program is vulnerable to a format string attack! See if you can modify a variable by supplying a format string! The binary can be found at /home/format/ on the shell server. The source can be found [here](format.c).)
+[//]: # (> This program is vulnerable to a format string attack! See if you can modify a variable by supplying a format string! The binary can be found at /home/format/ on the shell server. The source can be found [here](format.c\).)
 > The police station offers free pickles to police officers. However, someone stole the pickles from the pickle jar! You find a [clue](pickle.jar) on a USB drive left at the scene of the crime.
 
 ## Write-up

@@ -5,7 +5,7 @@
 **Total Solves:** Not Available
 ## Problem Description:
 
-[//]: # (> This program is vulnerable to a format string attack! See if you can modify a variable by supplying a format string! The binary can be found at /home/format/ on the shell server. The source can be found [here](format.c).)
+[//]: # (> This program is vulnerable to a format string attack! See if you can modify a variable by supplying a format string! The binary can be found at /home/format/ on the shell server. The source can be found [here](format.c\).)
 > The police need help decrypting one of your father's files. Fortunately you know where he wrote down all his backup decryption keys as a backup (probably not the best security practice). You are looking for the key corresponding to daedaluscorp.txt.enc. The file is stored on the shell server at /problems/grepfriend/keys .
 
 ## Write-up

@@ -5,7 +5,7 @@
 **Total Solves:** Not Available
 ## Problem Description:
 
-[//]: # (> This program is vulnerable to a format string attack! See if you can modify a variable by supplying a format string! The binary can be found at /home/format/ on the shell server. The source can be found [here](format.c).)
+[//]: # (> This program is vulnerable to a format string attack! See if you can modify a variable by supplying a format string! The binary can be found at /home/format/ on the shell server. The source can be found [here](format.c\).)
 > There's an authorization code for some Thyrin Labs information here, along with someone's favorite song. But it's been encrypted! Find the authorization code.
 [encrypted.txt](encrypted.txt)
 

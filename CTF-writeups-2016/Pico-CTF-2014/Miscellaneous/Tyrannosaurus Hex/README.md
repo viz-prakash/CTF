@@ -5,7 +5,7 @@
 **Total Solves:** Not Available
 ## Problem Description:
 > The contents of the flash drive appear to be password protected. On the back of the flash drive, you see the hexadecimal number 0x4355a5e6 scribbled in ink. The password prompt, however, only accepts decimal numbers. What number should you enter?
-[//]: # (> This program is vulnerable to a format string attack! See if you can modify a variable by supplying a format string! The binary can be found at /home/format/ on the shell server. The source can be found [here](format.c).)
+[//]: # (> This program is vulnerable to a format string attack! See if you can modify a variable by supplying a format string! The binary can be found at /home/format/ on the shell server. The source can be found [here](format.c\).)
 
 ## Write-up
 [//]: # (> Your write up goes here.)

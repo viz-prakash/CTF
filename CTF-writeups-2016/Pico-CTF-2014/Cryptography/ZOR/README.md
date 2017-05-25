@@ -5,7 +5,7 @@
 **Total Solves:** Not Available
 ## Problem Description:
 
-[//]: # (> This program is vulnerable to a format string attack! See if you can modify a variable by supplying a format string! The binary can be found at /home/format/ on the shell server. The source can be found [here](format.c).)
+[//]: # (> This program is vulnerable to a format string attack! See if you can modify a variable by supplying a format string! The binary can be found at /home/format/ on the shell server. The source can be found [here](format.c\).)
 > Daedalus has encrypted their blueprints! Can you get us the password? 
 [ZOR.py](ZOR.py)
 [encrypted](https://picoctf.com/api/autogen/serve/encrypted?static=false&pid=75648af599de2ecff06e8b74e5fd15c2)

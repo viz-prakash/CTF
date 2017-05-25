@@ -5,7 +5,7 @@
 **Total Solves:** Not Available
 ## Problem Description:
 
-[//]: # (> This program is vulnerable to a format string attack! See if you can modify a variable by supplying a format string! The binary can be found at /home/format/ on the shell server. The source can be found [here](format.c).)
+[//]: # (> This program is vulnerable to a format string attack! See if you can modify a variable by supplying a format string! The binary can be found at /home/format/ on the shell server. The source can be found [here](format.c\).)
 > It was found that a Daedalus employee was storing his personal files on a work computer. Unfortunately, he corrupted the filesystem before we could prove it. Can you take a look? Download [here](https://picoctf.com/problem-static/forensics/snapcat/disk.img).
 
 ## Write-up

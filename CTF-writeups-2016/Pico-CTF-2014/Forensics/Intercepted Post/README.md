@@ -6,7 +6,7 @@
 ## Problem Description:
 We intercepted some of your Dad's web activity. Can you get a password from his [traffic](https://picoctf.com/problem-static/forensics/intercepted-post/intercept.pcap)?. You can also view the traffic on [CloudShark](https://www.cloudshark.org/captures/5d19d8de342c).
 
-[//]: # (> This program is vulnerable to a format string attack! See if you can modify a variable by supplying a format string! The binary can be found at /home/format/ on the shell server. The source can be found [here](format.c).)
+[//]: # (> This program is vulnerable to a format string attack! See if you can modify a variable by supplying a format string! The binary can be found at /home/format/ on the shell server. The source can be found [here](format.c\).)
 
 ## Write-up
 [//]: # (> Your write up goes here.)

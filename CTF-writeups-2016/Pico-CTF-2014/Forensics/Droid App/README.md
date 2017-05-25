@@ -5,7 +5,7 @@
 **Total Solves:** Not Available
 ## Problem Description:
 
-[//]: # (> This program is vulnerable to a format string attack! See if you can modify a variable by supplying a format string! The binary can be found at /home/format/ on the shell server. The source can be found [here](format.c).)
+[//]: # (> This program is vulnerable to a format string attack! See if you can modify a variable by supplying a format string! The binary can be found at /home/format/ on the shell server. The source can be found [here](format.c\).)
 > An Android application was released for the toaster bots, but it seems like this one is some sort of debug version. Can you discover the presence of any debug information being stored, so we can plug this?
 You can download the apk [here](https://picoctf.com/problem-static/forensics/DroidApp/ToasterBot.apk).
 

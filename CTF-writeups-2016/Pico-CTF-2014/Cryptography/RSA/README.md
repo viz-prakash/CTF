@@ -5,7 +5,7 @@
 **Total Solves:** Not Available
 ## Problem Description:
 
-[//]: # (> This program is vulnerable to a format string attack! See if you can modify a variable by supplying a format string! The binary can be found at /home/format/ on the shell server. The source can be found [here](format.c).)
+[//]: # (> This program is vulnerable to a format string attack! See if you can modify a variable by supplying a format string! The binary can be found at /home/format/ on the shell server. The source can be found [here](format.c\).)
 > A Daedalus Corp spy sent an RSA-encrypted message. We got their key data, but we're not very good at math. Can you decrypt it? [Here's](https://picoctf.com/problem-static/crypto/RSA/handout.tgz) the data. Note that the flag is not a number but a number decoded as ASCII text.
 
 ## Write-up
