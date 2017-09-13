@@ -5,7 +5,7 @@
 **Total Solves:** Not Available
 ## Problem Description:
 
-> Begining always needs an interesting [challenge](https://asisctf.com/tasks/simple_crypto_e5189fe3d3d64de3d612de266315a9e96dc43787), we can assure you, this challenge is an interesting one to begin the CTF! Challange Updated, please redownload the binary file!
+> Begining always needs an interesting [challenge](simple_crypto_e5189fe3d3d64de3d612de266315a9e96dc43787), we can assure you, this challenge is an interesting one to begin the CTF! Challange Updated, please redownload the binary file!
 
 ## Write-up
 [//]: # (> Your write up goes here.)
