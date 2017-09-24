@@ -1,8 +1,8 @@
-# CSAW-2017 Qualifiers: Another%32Xor
+# CSAW-2017 Qualifiers: Another Xor
 
 **Category:** Cryptography
 **Points:** 100
-**Total Solves:** 224
+**Total Solves:** 221
 ## Problem Description:
 
 ![Image](Another_Xor.PNG?raw=true "Problem Statement")
