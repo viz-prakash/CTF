@@ -21,7 +21,7 @@ then below hold true:
 ```
 To get the flag either argument-1 or argument-2 is required but problem doesn't provide any of those. We can solve it with any one of those as following: if key is known we can repeat the keys till the length of encrypted and call the `xor function` with this repeated keys and it will xor out the key from encrypted content and will give back the argument-2, if argument-2 is given simply xoring with `encrypted` will give back the key repeated till lenght of `encrypted`. This is just what I explained earlier property of xor operation. Now solution was easy if any of those was provided, but it is not. So, it needs to be figured out. It's known that flag will begin with `flag{` and it can be argument-1 or argument-2. If `flag{` is in argument-1, let's call it key, it will be repeated at least twice as key is also added to the argument-2 andlet's call it plain_text. Few things to note are: 
 
-* With 'flag{` as key first five charcters of the output is going to be useful as it is sure that that is either present in key plain_text. For now, we can say that is going to be plain_text as we are assuming key starts with `flag{`. 
+* With `flag{` as key first five charcters of the output is going to be useful as it is sure that that is either present in key plain_text. For now, we can say that is going to be plain_text as we are assuming key starts with `flag{`. 
 * 32 byte or char of md5 is also added to (plain_text + key) before encryption. So, actual length of plain_text and key will be len(encrypted) - 32. 
 
 ```
